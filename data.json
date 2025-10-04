@@ -1,0 +1,490 @@
+{
+  "users": {
+    "6437656033": {
+      "name": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+      "username": "Julierbo2_151102",
+      "balance": 0,
+      "orders": [],
+      "topups": []
+    },
+    "7669567524": {
+      "name": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+      "username": "julierbo_151102",
+      "balance": 41401,
+      "orders": [
+        {
+          "order_id": "ORD20250902142808",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 6500,
+          "status": "processing",
+          "timestamp": "2025-09-02T14:28:08.542246"
+        },
+        {
+          "order_id": "ORD20250902154849",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 6000,
+          "status": "processing",
+          "timestamp": "2025-09-02T15:48:49.491109"
+        },
+        {
+          "order_id": "ORD20251002120553",
+          "game_id": "669948018",
+          "server_id": "86345",
+          "amount": "wp1",
+          "price": 6000,
+          "status": "processing",
+          "timestamp": "2025-10-02T12:05:53.394916"
+        },
+        {
+          "order_id": "ORD20251002123942",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "86",
+          "price": 5100,
+          "status": "processing",
+          "timestamp": "2025-10-02T12:39:42.515126"
+        },
+        {
+          "order_id": "ORD20251002125503",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "86",
+          "price": 5100,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T12:55:03.489280",
+          "user_id": "7669567524"
+        },
+        {
+          "order_id": "ORD20251002144318",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "172",
+          "price": 10200,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T14:43:18.099113",
+          "user_id": "7669567524"
+        },
+        {
+          "order_id": "ORD20251002145351",
+          "game_id": "654213689",
+          "server_id": "65432",
+          "amount": "86",
+          "price": 5100,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T14:53:51.448270",
+          "user_id": "7669567524",
+          "confirmed_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "confirmed_at": "2025-10-02T14:58:00.596265"
+        },
+        {
+          "order_id": "ORD20251002145517",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp6",
+          "price": 36000,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T14:55:17.049387",
+          "user_id": "7669567524",
+          "confirmed_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "confirmed_at": "2025-10-02T14:58:13.075024"
+        },
+        {
+          "order_id": "ORD20251002150415",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "112",
+          "price": 8200,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T15:04:15.401120",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "confirmed_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "confirmed_at": "2025-10-02T15:17:59.177883"
+        },
+        {
+          "order_id": "ORD20251002150920",
+          "game_id": "654213689",
+          "server_id": "65432",
+          "amount": "wp1",
+          "price": 6000,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T15:09:20.017742",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "cancelled_at": "2025-10-02T15:10:04.726120",
+          "confirmed_by": "\u840c\u2661 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b}",
+          "confirmed_at": "2025-10-02T15:11:08.859397"
+        },
+        {
+          "order_id": "ORD20251002152213",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 6000,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T15:22:13.039801",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "confirmed_by": "\u840c\u2661 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b}",
+          "confirmed_at": "2025-10-02T15:22:20.850975"
+        },
+        {
+          "order_id": "ORD20251002152302",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T15:23:02.966515",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u840c\u2661 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b}",
+          "cancelled_at": "2025-10-02T15:23:51.372862"
+        },
+        {
+          "order_id": "ORD20251002154204",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T15:42:04.217580",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "cancelled_by": "\u840c\u2661 \u1000\u102d\u102f\u1000\u102d\u102f\u1037\u1019\u103d\u1031\u1038\u1014\u1031\u1037\u1019\u102d\u102f\u1037 \u1015\u102d\u1010\u103a\u1015\u102b\u1015\u102e\u1038 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b",
+          "cancelled_at": "2025-10-02T15:42:43.481657"
+        },
+        {
+          "order_id": "ORD20251002154414",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "22",
+          "price": 1900,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T15:44:14.251213",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u840c\u2661 \u1000\u102d\u102f\u1000\u102d\u102f\u1037\u1019\u103d\u1031\u1038\u1014\u1031\u1037\u1019\u102d\u102f\u1037 \u1015\u102d\u1010\u103a\u1015\u102b\u1015\u102e\u1038 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b",
+          "cancelled_at": "2025-10-02T15:44:24.029922"
+        },
+        {
+          "order_id": "ORD20251002154600",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "22",
+          "price": 1900,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T15:46:00.955792",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "cancelled_at": "2025-10-02T15:46:16.879557"
+        },
+        {
+          "order_id": "ORD20251002163808",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T16:38:08.387984",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "cancelled_at": "2025-10-02T16:38:41.808033"
+        },
+        {
+          "order_id": "ORD20251002164018",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T16:40:18.948337",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "confirmed_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "confirmed_at": "2025-10-02T16:40:32.573943"
+        },
+        {
+          "order_id": "ORD20251002165341",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T16:53:41.361740",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "confirmed_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "confirmed_at": "2025-10-02T16:54:01.811336"
+        },
+        {
+          "order_id": "ORD20251002165437",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T16:54:37.387656",
+          "user_id": "7669567524",
+          "chat_id": -1002747496932,
+          "cancelled_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "cancelled_at": "2025-10-02T16:54:52.485007"
+        },
+        {
+          "order_id": "ORD20251002170053",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "22",
+          "price": 1900,
+          "status": "cancelled",
+          "timestamp": "2025-10-02T17:00:53.645352",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "cancelled_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "cancelled_at": "2025-10-02T17:01:24.387408"
+        },
+        {
+          "order_id": "ORD20251002180522",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "11",
+          "price": 950,
+          "status": "confirmed",
+          "timestamp": "2025-10-02T18:05:22.195610",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "confirmed_by": "\u26a1\ufe0f\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u26a1\ufe0f",
+          "confirmed_at": "2025-10-02T18:05:37.406169"
+        },
+        {
+          "order_id": "ORD20251004151414",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T15:14:14.249662",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004173541",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "confirmed",
+          "timestamp": "2025-10-04T17:35:41.758653",
+          "user_id": "7669567524",
+          "chat_id": 7669567524,
+          "confirmed_by": "\u0f12\ud835\udc09\ud835\udc14\ud835\udc0b\ud835\udc08\ud835\udc04\ud835\udc11 \ud835\udc02\ud835\udc21\ud835\udc1e\ud835\udc25\ud835\udc25\ud835\udc2c\ud835\udc32 \ud835\udc00\ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc25\ud835\udc1a \ud835\udc19\ud835\udc00\ud835\udc0c\ud835\udc0e\ud835\udc11\ud835\udc00 \u262c",
+          "confirmed_at": "2025-10-04T17:37:58.795964"
+        },
+        {
+          "order_id": "ORD20251004174440",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T17:44:40.720405",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004174647",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T17:46:47.958934",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004174756",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T17:47:56.669619",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004175112",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T17:51:12.878415",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004180127",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:01:27.738176",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004180803",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:08:03.695379",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004181105",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:11:05.479313",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004181333",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:13:33.555858",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004182639",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:26:39.138429",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        },
+        {
+          "order_id": "ORD20251004183310",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 5800,
+          "status": "pending",
+          "timestamp": "2025-10-04T18:33:10.463418",
+          "user_id": "7669567524",
+          "chat_id": 7669567524
+        }
+      ],
+      "topups": [
+        {
+          "amount": 50000,
+          "status": "approved",
+          "timestamp": "2025-09-02T14:24:42.405583",
+          "approved_at": "2025-09-02T14:25:40.843221"
+        },
+        {
+          "amount": 50000,
+          "status": "approved",
+          "timestamp": "2025-10-02T12:07:28.553981",
+          "approved_at": "2025-10-02T12:08:11.822437"
+        },
+        {
+          "amount": 50000,
+          "status": "approved",
+          "timestamp": "2025-10-03T17:04:48.286802",
+          "approved_at": "2025-10-03T17:05:41.063105"
+        },
+        {
+          "amount": 50000,
+          "status": "approved",
+          "timestamp": "2025-10-03T17:08:32.007058",
+          "approved_at": "2025-10-04T13:48:31.821992"
+        },
+        {
+          "amount": 1000,
+          "status": "approved",
+          "timestamp": "2025-10-04T17:49:38.803521",
+          "approved_at": "2025-10-04T17:50:40.890369"
+        },
+        {
+          "amount": 1000,
+          "status": "approved",
+          "timestamp": "2025-10-04T17:52:02.351523",
+          "approved_at": "2025-10-04T18:00:42.527085"
+        }
+      ]
+    },
+    "6419935994": {
+      "name": "\u840c\u2661 {wp ,Dia,UC ,tg pre 1min \u1021\u1010\u103d\u1004\u103a\u1038\u101b}",
+      "username": "offical_acc_kea",
+      "balance": 44000,
+      "orders": [
+        {
+          "order_id": "ORD20251002123748",
+          "game_id": "669948018",
+          "server_id": "8662",
+          "amount": "wp1",
+          "price": 6000,
+          "status": "processing",
+          "timestamp": "2025-10-02T12:37:48.110465"
+        }
+      ],
+      "topups": [
+        {
+          "amount": 50000,
+          "status": "approved",
+          "timestamp": "2025-10-02T12:27:23.819775",
+          "approved_at": "2025-10-02T12:29:13.440222"
+        }
+      ]
+    },
+    "8197491717": {
+      "name": "JB-Store Business",
+      "username": "JulierboSh_151102",
+      "balance": 0,
+      "orders": [],
+      "topups": [
+        {
+          "amount": 50000,
+          "status": "pending",
+          "timestamp": "2025-10-03T02:04:12.354610"
+        }
+      ]
+    }
+  },
+  "prices": {
+    "wp1": 5800
+  },
+  "authorized_users": [
+    "6419935994",
+    "8197491717",
+    "6437656033",
+    "7669567524"
+  ],
+  "admin_ids": [
+    6437656033
+  ]
+}
