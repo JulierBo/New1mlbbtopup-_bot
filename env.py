@@ -1,0 +1,3 @@
+BOT_TOKEN=your_bot_token_here
+ADMIN_ID=your_admin_id_here
+ADMIN_GROUP_ID=your_admin_group_id_here
